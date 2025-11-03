@@ -1,0 +1,26 @@
+{
+  "name": "PILARIS – Sistema de Atendimentos",
+  "short_name": "PilarisControl",
+  "description": "Um sistema de gerenciamento completo para estúdios de Pilates e clínicas, com agendamento de atendimentos, controle de alunos, cálculo automático de ganhos e um painel de resumo intuitivo.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#EDF2F7",
+  "theme_color": "#3182CE",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
